@@ -53,6 +53,6 @@ Everything else we make is made to order and takes three weeks or more.
 These are finished: 4×6 ft, one of each, hand-tufted from ₹18,000, and one
 hand-knotted Nilgiri at ₹36,000.
 
-Comment RUG and we'll send sizes, prices and photos of the one you like. All 27 are on the floor at MG Road, New Delhi.
+Comment RUG and we'll send photos and the price of the one you like. All 27 are on the floor at MG Road, New Delhi.
 
 #ArtAvenue #HandTuftedRugs #DiwaliDecor
