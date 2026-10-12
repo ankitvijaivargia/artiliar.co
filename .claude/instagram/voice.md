@@ -80,9 +80,11 @@ and the live Shopify catalogue. Lines marked `{{...}}` need a real answer.
 - **Do I swear:** no.
 - **Emoji in captions:** never in the copy. At most one at the end of a reel
   caption, and only if it means something. No ✨🤍👀 run.
-- **Face on camera:** {{always / sometimes / faceless; current reels are mostly
-  product-only}}
-- **Voiceover or to-camera:** {{founder voiceover / text on screen only}}
+- **Face on camera:** sometimes. Founder on camera for story, teaching and
+  showroom reels; product-only for reveals and rug unrolls.
+- **Voiceover or to-camera:** both. To-camera when the founder is in frame;
+  voiceover or on-screen text over product footage. Always write on-screen
+  text so the reel works muted.
 - **Language:** English. A Hindi line is fine on camera when it is natural. No
   Hinglish captions.
 - **Pace:** 150 wpm. Slow, unhurried. {{Replace with a timed read if you have
@@ -124,14 +126,17 @@ and the live Shopify catalogue. Lines marked `{{...}}` need a real answer.
 - **Topics I do not post about:** competitors by name, discounting, price
   comparisons with mass-market brands, politics.
 - **Clients, numbers or names I cannot say publicly:** client names and homes
-  unless they have agreed to be tagged. {{list any designers/clients who have
-  agreed}}
+  unless they have agreed to be tagged. Nobody has agreed yet, so do not tag
+  or name any designer or client. Say "a designer's home in Delhi" instead.
 - **Claims I am not allowed to make:**
   - No "antique" unless it is. Vintage kilim is vintage kilim.
   - No "solid wood", "genuine leather" or "solid brass" unless the spec sheet
     says so for that exact piece.
-  - No delivery or lead-time promise beyond {{standard lead time, e.g. 6 to 8
-    weeks for made to order}}.
+  - Lead times, and nothing faster:
+    - Made-to-order furniture: 4 to 6 weeks.
+    - Hand-knotted rugs: 4 to 6 months. Never say weeks for a hand-knotted rug.
+    - Hand-tufted rugs beyond the in-stock 4×6: {{confirm lead time}}
+    - In-stock 4×6 rugs: ready to ship.
   - Never quote a price in a caption that does not match Shopify.
 
 ## Proof I can use
@@ -143,13 +148,12 @@ and the live Shopify catalogue. Lines marked `{{...}}` need a real answer.
 - Rugs named for places in India (Spiti, Mysore, Patan, Nilgiri, Sambalpur,
   Pochampally, Sikandra, Munnar, Tawang, Nishat, Orchha, Mahe, Ooty, Makrana,
   Ajmer), each with the story of the place in its pattern.
-- Featured in a designer's home: Jaipur Coffee Table. {{designer name / handle
-  if they agreed to be tagged}}
-- {{years in business}}
-- {{number of homes furnished / pieces made}}
+- Featured in a designer's home: Jaipur Coffee Table (untagged).
+- 10 years in business.
+- More than 10,000 pieces made.
+- More than 200 karigars.
+- A hand-knotted rug takes 4 to 6 months on the loom.
 - {{one real customer quote, with first name and city}}
-- {{artisan story: how many karigars, which workshop, how long a hand-knotted
-  rug takes}}
 
 ## The ask
 
@@ -160,7 +164,7 @@ and the live Shopify catalogue. Lines marked `{{...}}` need a real answer.
   - `CUSTOM` → made-to-measure enquiries and designers
 - **What the keyword sends them:** a DM with sizes, price, the product link,
   lead time, and an invitation to the MG Road showroom.
-- **Where my link goes:** {{artavenue.com or a link-in-bio page}}. Point it at
+- **Where my link goes:** artavenue.com. Point it at
   the collection in the post, not the home page.
 - **Showroom line:** "See it at our MG Road showroom in New Delhi."
 - One ask per post. Never "DM us AND visit AND shop the link".
