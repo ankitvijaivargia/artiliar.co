@@ -135,7 +135,7 @@ and the live Shopify catalogue. Lines marked `{{...}}` need a real answer.
   - Lead times, and nothing faster:
     - Made-to-order furniture: 4 to 6 weeks.
     - Hand-knotted rugs: 4 to 6 months. Never say weeks for a hand-knotted rug.
-    - Hand-tufted rugs beyond the in-stock 4×6: {{confirm lead time}}
+    - Hand-tufted rugs in other sizes: 3 to 4 weeks.
     - In-stock 4×6 rugs: ready to ship.
   - Never quote a price in a caption that does not match Shopify.
 
@@ -143,7 +143,7 @@ and the live Shopify catalogue. Lines marked `{{...}}` need a real answer.
 
 - Crafted in Jaipur. Showroom on MG Road, New Delhi. Ships across India.
 - Most pieces can be customised: dimensions, finish, material, detailing.
-- Rugs in stock: one of each design in 4×6 ft, ready to ship. Larger sizes
+- Rugs in stock: one of each design in 4×6 ft, ready to ship. Other sizes
   made to order.
 - Rugs named for places in India (Spiti, Mysore, Patan, Nilgiri, Sambalpur,
   Pochampally, Sikandra, Munnar, Tawang, Nishat, Orchha, Mahe, Ooty, Makrana,
